@@ -26,11 +26,6 @@ A simple and responsive web-based countdown timer built using **HTML**, **CSS**,
 1. Clone or download the repository
 2. Open `index.html` in your browser
 3. Watch the countdown live!
-
-## 📌 Note
-
-Make sure all files (HTML, CSS, JS, images) are in the **same folder** for everything to work properly.
-
 ---
 
 Feel free to star ⭐ the repo or fork it for your own project!
